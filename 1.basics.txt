@@ -16,3 +16,14 @@ To Run
 bash script.sh - to give the name of shells
 
 ---------------------------------------------------------------------------
+
+$BASH - name of the bash script name - Capital variable are system variable
+echo - to print anything
+
+if a = 5
+and again we write a = 6
+
+echo "value of a is $a" will be 6 - as value of variables change as we reassign it
+
+---------------------------------------------------------------------------
+
