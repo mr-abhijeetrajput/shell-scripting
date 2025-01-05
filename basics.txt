@@ -1,0 +1,18 @@
+basic-of-shell-scripting
+
+to know supported shells in your OS - cat /etc/shells
+to know the os - cat /etc/os-release
+to know the default bash - echo $0
+for location - which bash
+to show the name of the machine - hostname
+to clear screen - ctrl l 
+
+---------------------------------------------------------------------------
+
+To Run
+
+./script.sh
+/path/script.sh - to run from another place
+bash script.sh - to give the name of shells
+
+---------------------------------------------------------------------------
