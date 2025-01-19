@@ -49,3 +49,16 @@ string comparision
 < - is less than , in ASCII alphabetical order - if [[ "$a" < "$b"]]
 > - is greater than, in ASCII alphabetical order - if [[ "$a" > "$b"]]
 -z - string is null , that is , has zero length
+
+
+File Test Operators
+
+-e is used to check file exits or not
+-f regular file or not
+-d for directory
+-b for blod special file
+-c character special file
+-s to check empty or not
+-r to check read permission
+-w - write
+-x - execute
